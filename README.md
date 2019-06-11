@@ -35,6 +35,11 @@ The following subprojects are owned by sig-drupal:
 - **ansible drupal operator poc**
   - Owners:
     - https://github.com/thom8/drupal-operator
+    
+## Community Projects
+
+- skpr - https://github.com/previousnext/skpr
+- lagoon - https://github.com/amazeeio/lagoon
 
 ## GitHub Teams
 
