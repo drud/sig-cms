@@ -6,9 +6,9 @@ sigs.yaml file in the project root.
 
 To understand how this file is generated, see https://git.k8s.io/community/generator/README.md
 --->
-# Drupal Special Interest Group
+# CMS Special Interest Group
 
-A Special Interest Group for building, deploying, maintaining, supporting, and using Drupal on Kubernetes.
+A Special Interest Group for building, deploying, maintaining, supporting, and using CMSs like Drupal, WordPress and TYPO3 on Kubernetes.
 
 The [charter](charter.md) defines the scope and governance of the Drupal Special Interest Group.
 
